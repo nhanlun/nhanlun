@@ -1,17 +1,9 @@
 ### Hi there, I'm Nhan Nguyen 👋
 
-![nhanlun's github stats](https://github-readme-stats.vercel.app/api?username=nhanlun&count_private=true&show_icon=true&theme=vue-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhanlun&langs_count=8&layout=compact&count_private=true)
-
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanlun&langs_count=8&layout=compact&count_private=true"/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanlun&count_private=true&show_icon=true&theme=vue-dark"/>
 </a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanlun&langs_count=8&layout=compact&count_private=true&theme=vue-dark"/>
 </a>    
 
