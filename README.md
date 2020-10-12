@@ -1,6 +1,6 @@
 ### Hi there, I'm Nhan Nguyen 👋
 
-[![nhanlun's github stats](https://github-readme-stats.vercel.app/api?username=nhanlun&count_private=true)]
+![nhanlun's github stats](https://github-readme-stats.vercel.app/api?username=nhanlun&count_private=true&show_icon=true&theme=vue_dark)
 <!--
 **nhanlun/nhanlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
