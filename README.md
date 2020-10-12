@@ -1,9 +1,9 @@
 ### Hi there, I'm Nhan Nguyen 👋
 
-<a>
+<a href="https://github.com/nhanlun">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanlun&count_private=true&show_icon=true&theme=vue-dark"/>
 </a>    
-<a>
+<a href="https://github.com/nhanlun">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanlun&langs_count=8&layout=compact&count_private=true&theme=vue-dark"/>
 </a>    
 
