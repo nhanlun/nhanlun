@@ -1,6 +1,7 @@
 ### Hi there, I'm Nhan Nguyen 👋
 
-
+- I'm currently a student of the Advanced Program in Computer Science of Ho Chi Minh University of Science
+- I'm passionate about learning new things and programming
 
 ---
 
