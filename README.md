@@ -7,7 +7,8 @@
 [<img align="left" alt="Facebook" width="22px" src="/icon/facebook.svg"/>][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="/icon/linkedin.svg"/>][linkedin] 
 
-</br>
+<br />
+
 ---
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanlun&count_private=true&show_icon=true&theme=vue-dark"/>][my_github]
