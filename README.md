@@ -1,16 +1,17 @@
-### Hi there, I'm Nhan Nguyen 👋
+# Hi there, I'm Nhan Nguyen 👋
 
 - I'm currently a student of the Advanced Program in Computer Science of Ho Chi Minh University of Science
 - I'm passionate about learning new things and programming
 
+### Connect with me:
+[<img align="left" alt="Facebook"/>][facebook]
+[<img align="left" alt="LinkedIn"/>][linkedin] 
+
+</br>
 ---
 
-<a href="https://github.com/nhanlun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanlun&count_private=true&show_icon=true&theme=vue-dark"/>
-</a>    
-<a href="https://github.com/nhanlun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanlun&langs_count=8&layout=compact&count_private=true&theme=vue-dark"/>
-</a>    
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanlun&count_private=true&show_icon=true&theme=vue-dark"/>][my_github]
+[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanlun&langs_count=8&layout=compact&count_private=true&theme=vue-dark"/>][my_github]
 
 
 <!--
@@ -27,3 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[facebook]:https://www.facebook.com/nhanlunn/
+[linkedin]:https://www.linkedin.com/in/nhan-nguyen-1401/
+[my_github]:https://github.com/nhanlun
