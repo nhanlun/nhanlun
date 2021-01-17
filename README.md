@@ -4,7 +4,7 @@
 - I'm passionate about learning new things and programming
 
 ### Connect with me:
-[<img align="left" alt="Facebook"/>][facebook]
+[<img align="left" alt="Facebook" src="/icon/facebook.svg" width="22px"/>][facebook]
 [<img align="left" alt="LinkedIn"/>][linkedin] 
 
 </br>
