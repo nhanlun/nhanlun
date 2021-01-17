@@ -9,6 +9,13 @@
 
 <br />
 
+### Languages and tools:
+[<img align="left" alt="C++" width="22px" src="/icon/c++.svg"/>]
+[<img align="left" alt="Java" width="22px" src="/icon/java.svg"/>]
+[<img align="left" alt="git" width="22px" src="/icon/git.svg"/>]
+
+<br />
+
 ---
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanlun&count_private=true&show_icon=true&theme=vue-dark"/>][my_github]
