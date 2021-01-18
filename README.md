@@ -12,6 +12,7 @@
 ### Languages and tools:
 <img align="left" alt="C++" width="22px" src="/icon/c++.svg"/>
 <img align="left" alt="Java" width="22px" src="/icon/java.svg"/>
+<img align="left" alt="Python" width="22px" src="/icon/python.svg"/>
 <img align="left" alt="git" width="22px" src="/icon/git.svg"/>
 
 <br />
