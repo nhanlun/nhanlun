@@ -1,7 +1,8 @@
 # Hi there, I'm Nhan Nguyen 👋
 
-- I'm currently a student of the Advanced Program in Computer Science of Ho Chi Minh University of Science
-- I'm passionate about learning new things and programming
+- I'm currently a Senior Software Engineer
+- Still passionate about learning new knowledge and technologies
+- If you have some interesting ideas, we can code it together :D
 
 ### Connect with me:
 [<img align="left" alt="Facebook" width="22px" src="/icon/facebook.svg"/>][facebook]
